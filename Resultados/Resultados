@@ -1,0 +1,46 @@
+Medidas globales máximas:
+	Nodos: 62
+	Aristas: 159
+	Número máximo de enlaces: - (calcularlo manualmente)
+	Grado medio: 5,129 (más info en results)
+
+Densidad de grafo: 0,084
+Coeficiente medio de clustering: 0,303 (más info en results)
+Componentes conexas: 1
+
+Medidas globales: (más info en results)
+	Diámetro: 8
+		Intermediación: -
+		Cercanía: -
+		Excentricidad: -
+	Distancia media: 3,357
+
+
+Centralidad de grado:
+	1. Grin: 12
+	2. SN4: 11
+	3. Topless: 11
+	4. Scabs: 10
+	5. Trigger: 10
+
+Centralidad de intermediación:
+	1. SN100: 0.248
+	2. Beescratch: 0.213
+	3. SN9: 0.143
+	4. SN4: 0.139
+	5. DN63: 0.118
+
+Centralidad de cercanía:
+	1. SN100: 0.418
+	2. SN9: 0.404
+	3. SN4: 0.399
+	4. Kringel: 0.391
+	5. Grin: 0.376
+
+Centralidad de Vector propio:
+	1. Grin: 1.0
+	2. SN4: 0.959
+	3. Topless: 0.908
+	4. Scabs: 0.882
+	5. TR99: 0.698
+
