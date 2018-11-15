@@ -1,5 +1,5 @@
 # Dolphin-Social-Network
-This repository contains the Dolphin Social Network analyzed with Gephi 0.92, with its correspondent .xlsx with all calculations defined for each node.
+This repository contains the Dolphin Social Network analyzed with Gephi 0.92 (Linux version), with its correspondent .xlsx with all calculations defined for each node.
 
 This social network has been created by D. Lusseau, K. Schneider, O. J. Boisseau, P. Haase, E. Slooten, and S. M. Dawson, from "The bottlenose dolphin community of Doubtful Sound features a large proportion of long-lasting associations", published in Behavioral Ecology and Sociobiology 54, 396-405 (2003).
 
