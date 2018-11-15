@@ -3,7 +3,7 @@ This repository contains the Dolphin Social Network analyzed with Gephi 0.92, wi
 
 This social network has been created by D. Lusseau, K. Schneider, O. J. Boisseau, P. Haase, E. Slooten, and S. M. Dawson, from "The bottlenose dolphin community of Doubtful Sound features a large proportion of long-lasting associations", published in Behavioral Ecology and Sociobiology 54, 396-405 (2003).
 
-##Additional information on the network can be found in
+## Additional information on the network can be found in
 
   D. Lusseau, The emergent properties of a dolphin social network,
   Proc. R. Soc. London B (suppl.) 270, S186-S188 (2003).
